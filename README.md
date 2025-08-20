@@ -1,16 +1,18 @@
 # Nombre del Proyecto
 Frío Delirio
 ## Integrantes
-Ana Maria Urrego Carmona
-Emanuel Giraldo Castañeda
-Sara Garcia Urrego
+- Ana Maria Urrego Carmona
+- Emanuel Giraldo Castañeda
+- Sara Garcia Urrego
 
 ## Descripción
 Trata de un menú informativo para un establecimiento físico de helados, este, tiene como fin mostrar información sobre los productos disponibles, la página se podrá abrir escanenado un código QR que será ubicado en cada mesa.
 
 ## Características
-- Lista de funcionalidades principales
-- Tecnologías utilizadas
+- La funcionalidad principal de este proyecto es informativa, muestra los sabores de helado disponibles, las presentaciones en las que el cliente puede pedir su helado y los toppings que puede incluir en este.
+- El proyecto será en su mayoría visual, no tendrá funcionalidades mas allá de un menú hamburguesa que dé una visión de lo que se encontrará a lo largo de la página y que lleve a cada título.
+- Git, github, visual studio code, navegadores (como google) y computadores.
+
 
 ## Registro de Avances por Clase
 **Nota**:En esta clase pudimos tener el avance de la creacion del fork del lider en el repositorio donde los demas integrantes realizaremos nuestro propio fork donde trabajamos en el readme y se le envia el pull requests al repositorio del lider, primero ana se agrega como integrante y se dirige a git para refrescar la pagina y enviarle la modificacion al lider emanuel en ese caso el resivira un pull requests y decide si acepta o no que ella sea partifipe del proyecto, como siguiente paso el lider emnauel agrega su nombre a los integrantes en el readme y actualiza en git para nosotras resivir ese cambio y por ultimo sara agrega su informacion y la redirige al lider el git para ser aceptaba en el proyecto.
