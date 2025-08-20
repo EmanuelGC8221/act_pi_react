@@ -13,7 +13,7 @@ Descripción del proyecto y su propósito.
 - Tecnologías utilizadas
 
 ## Registro de Avances por Clase
-**Nota**: Todos los avances documentados en esta sección deben coincidir con los commits realizados en el repositorio, incluyendo el autor correspondiente de cada commit. Cada tarea completada, en progreso o pendiente debe estar respaldada por un commit asociado en el repositorio, con mensajes descriptivos que reflejen la tarea realizada y el nombre del autor.
+**Nota**:En esta clase pudimos tener el avance de la creacion del fork del lider en el repositorio donde los demas integrantes realizaremos nuestro propio fork donde trabajamos en el readme y se le envia el pull requests al repositorio del lider, primero ana se agrega como integrante y se dirige a git para refrescar la pagina y enviarle la modificacion al lider emanuel en ese caso el resivira un pull requests y decide si acepta o no que ella sea partifipe del proyecto, como siguiente paso el lider emnauel agrega su nombre a los integrantes en el readme y actualiza en git para nosotras resivir ese cambio y por ultimo sara agrega su informacion y la redirige al lider el git para ser aceptaba en el proyecto.
 
 ### Clase 1
 - **Fecha**: [DD/MM/YYYY]
