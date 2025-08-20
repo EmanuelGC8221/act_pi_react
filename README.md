@@ -16,19 +16,19 @@ Trata de un menú informativo para un establecimiento físico de helados, este, 
 **Nota**:En esta clase pudimos tener el avance de la creacion del fork del lider en el repositorio donde los demas integrantes realizaremos nuestro propio fork donde trabajamos en el readme y se le envia el pull requests al repositorio del lider, primero ana se agrega como integrante y se dirige a git para refrescar la pagina y enviarle la modificacion al lider emanuel en ese caso el resivira un pull requests y decide si acepta o no que ella sea partifipe del proyecto, como siguiente paso el lider emnauel agrega su nombre a los integrantes en el readme y actualiza en git para nosotras resivir ese cambio y por ultimo sara agrega su informacion y la redirige al lider el git para ser aceptaba en el proyecto.
 
 ### Clase 1
-- **Fecha**: [DD/MM/YYYY]
+- **Fecha**: [20/08/2025]
 - **Objetivos**:
-  - [Objetivo 1]
-  - [Objetivo 2]
+  - [Creacion del fork]
+  - [idear boceto de interfaz]
 - **Avances**:
-  - ✅ [Tarea completada 1] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
-  - ✅ [Tarea completada 2] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
+  - ✅ [Tarea completada 1] - Responsable: [Emanuel] - Commit: [Creacion del fork del proyecto, clonado por los participantes]
+  - ✅ [Tarea completada 2] - Responsable: [Sara,Emanuel,Ana] - Commit: [Eleccion del proyecto menu heladeria]
 - **En progreso**:
-  - 🔄 [Tarea en progreso] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
+  - 🔄 [Tarea en progreso] - Responsable: [Sara,Emananeul,Ana] - Commit: [Creaccion de interfaz de pagina principal]
 - **Pendiente**:
-  - ⏳ [Tarea pendiente] - Responsable: [Nombre]
+  - ⏳ [Tarea pendiente] - Responsable: [Sara]- commit: [Creaccion de logo del proyecto]
 - **Notas**:
-  - [Descripción de problemas, soluciones o decisiones tomadas]
+  - [Pensamos en la creaccion de una interfaz para comprar helados pero decidimos por ultimo que fuera una interfaz solo informativa para el menu de una heladera, siendo mas interactiva y facil de entender.]
 
 ### Clase 2
 - **Fecha**: [DD/MM/YYYY]
