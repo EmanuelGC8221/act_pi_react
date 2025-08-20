@@ -2,6 +2,7 @@
 
 ## Integrantes
 Ana Maria Urrego Carmona
+Emanuel Giraldo Castañeda
 
 ## Descripción
 Descripción del proyecto y su propósito.
