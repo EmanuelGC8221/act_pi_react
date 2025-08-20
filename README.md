@@ -1,16 +1,18 @@
 # Nombre del Proyecto
 
 ## Integrantes
-Ana Maria Urrego Carmona
-Emanuel Giraldo Castañeda
-Sara Garcia Urrego
+- Ana Maria Urrego Carmona
+- Emanuel Giraldo Castañeda
+- Sara Garcia Urrego
 
 ## Descripción
 Descripción del proyecto y su propósito.
 
 ## Características
-- Lista de funcionalidades principales
-- Tecnologías utilizadas
+- La funcionalidad principal de este proyecto es informativa, muestra los sabores de helado disponibles, las presentaciones en las que el cliente puede pedir su helado y los toppings que puede incluir en este.
+- El proyecto será en su mayoría visual, no tendrá funcionalidades mas allá de un menú hamburguesa que dé una visión de lo que se encontrará a lo largo de la página y que lleve a cada título.
+- Git, github, visual studio code, navegadores (como google) y computadores.
+
 
 ## Registro de Avances por Clase
 **Nota**: Todos los avances documentados en esta sección deben coincidir con los commits realizados en el repositorio, incluyendo el autor correspondiente de cada commit. Cada tarea completada, en progreso o pendiente debe estar respaldada por un commit asociado en el repositorio, con mensajes descriptivos que reflejen la tarea realizada y el nombre del autor.
