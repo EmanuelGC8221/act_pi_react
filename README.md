@@ -1,12 +1,12 @@
 # Nombre del Proyecto
-
+Frío Delirio
 ## Integrantes
 Ana Maria Urrego Carmona
 Emanuel Giraldo Castañeda
 Sara Garcia Urrego
 
 ## Descripción
-Descripción del proyecto y su propósito.
+Trata de un menú informativo para un establecimiento físico de helados, este, tiene como fin mostrar información sobre los productos disponibles, la página se podrá abrir escanenado un código QR que será ubicado en cada mesa.
 
 ## Características
 - Lista de funcionalidades principales
