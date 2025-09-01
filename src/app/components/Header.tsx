@@ -10,7 +10,7 @@ export default function Header() {
     <header className={styles.header}>
       {/* Logo + título */}
       <div className={styles.logo}>
-        <img src="/logoFrioDelirio.png" alt="logoFrioDelirio" />
+        <img src="/logo_frio_delirio.png" alt="logoFrioDelirio" />
         <span className={styles.title}>Frío Delirio</span>
       </div>
 

@@ -1,9 +1,8 @@
-/* ---------- GENERAL ---------- */
 .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: linear-gradient(90deg, #ffe4ec, #e0f7ff);
+  background: linear-gradient(90deg, #6d67e6, #e0f7ff);
   padding: 0.75rem 1.5rem;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
   position: sticky;
@@ -11,28 +10,26 @@
   z-index: 1000;
 }
 
-/* Logo y título */
 .logo {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 1.5rem;
 }
 
 .logo img {
-  width: 48px;
-  height: 48px;
+  width: 70px;
+  height: 100px;
   object-fit: contain;
   border-radius: 50%;
 }
 
 .title {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: bold;
-  color: #d63384;
-  font-family: "Poppins", sans-serif;
+  color: #f0f0f6;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-/* ---------- MENÚ ---------- */
 .menu {
   display: none;
   flex-direction: column;
@@ -54,7 +51,7 @@
 }
 
 .menu a:hover {
-  color: #d63384;
+  color: #5b77c0;
 }
 
 /* Mostrar cuando está abierto */
