@@ -1,10 +1,11 @@
+import Header from "./components/Header";
 
 import Card from "./components/Card";
 
 export default function Home() {
   return (
     <main>
-     
+     <Header />
 
       <div className="card-container">
         <Card 
