@@ -1,9 +1,10 @@
 # Nombre del Proyecto
-Frío Delirio
+Frio Delirio
+
 ## Integrantes
 - Ana Maria Urrego Carmona
 - Emanuel Giraldo Castañeda
-- Sara Garcia Urrego
+- Sara Gracia Urrego
 
 ## Descripción
 Trata de un menú informativo para un establecimiento físico de helados, este, tiene como fin mostrar información sobre los productos disponibles, la página se podrá abrir escanenado un código QR que será ubicado en cada mesa.
@@ -13,9 +14,8 @@ Trata de un menú informativo para un establecimiento físico de helados, este, 
 - El proyecto será en su mayoría visual, no tendrá funcionalidades mas allá de un menú hamburguesa que dé una visión de lo que se encontrará a lo largo de la página y que lleve a cada título.
 - Git, github, visual studio code, navegadores (como google) y computadores.
 
-
 ## Registro de Avances por Clase
-**Nota**:En esta clase pudimos tener el avance de la creacion del fork del lider en el repositorio donde los demas integrantes realizaremos nuestro propio fork donde trabajamos en el readme y se le envia el pull requests al repositorio del lider, primero ana se agrega como integrante y se dirige a git para refrescar la pagina y enviarle la modificacion al lider emanuel en ese caso el resivira un pull requests y decide si acepta o no que ella sea partifipe del proyecto, como siguiente paso el lider emnauel agrega su nombre a los integrantes en el readme y actualiza en git para nosotras resivir ese cambio y por ultimo sara agrega su informacion y la redirige al lider el git para ser aceptaba en el proyecto.
+**Nota**: En esta clase pudimos tener el avance de la creacion del fork del lider en el repositorio donde los demas integrantes realizaremos nuestro propio fork donde trabajamos en el readme y se le envia el pull requests al repositorio del lider, primero ana se agrega como integrante y se dirige a git para refrescar la pagina y enviarle la modificacion al lider emanuel en ese caso el resivira un pull requests y decide si acepta o no que ella sea partifipe del proyecto, como siguiente paso el lider emnauel agrega su nombre a los integrantes en el readme y actualiza en git para nosotras resivir ese cambio y por ultimo sara agrega su informacion y la redirige al lider el git para ser aceptaba en el proyecto.
 
 ### Clase 1
 - **Fecha**: [20/08/2025]
@@ -24,7 +24,7 @@ Trata de un menú informativo para un establecimiento físico de helados, este, 
   - [idear boceto de interfaz]
 - **Avances**:
   - ✅ [Tarea completada 1] - Responsable: [Emanuel] - Commit: [Creacion del fork del proyecto, clonado por los participantes]
-  - ✅ [Tarea completada 2] - Responsable: [Sara,Emanuel,Ana] - Commit: [Eleccion del proyecto menu heladeria]
+  - ✅ [Tarea completada 2] - Responsable: [Sara,Emanuel] - Commit: [Eleccion del proyecto menu heladeria]
 - **En progreso**:
   - 🔄 [Tarea en progreso] - Responsable: [Sara,Emananeul,Ana] - Commit: [Creaccion de interfaz de pagina principal]
 - **Pendiente**:
