@@ -12,6 +12,7 @@ export default function Home() {
       {/* sección de presentaciones de helado */}
 
       <div className="card-container">
+      <Section title="Presentaciones de Helado">
         <Card 
           image="https://images.unsplash.com/photo-1565958011702-44e7b4dc30e9" 
           title="Helado de Vainilla" 
@@ -27,6 +28,9 @@ export default function Home() {
           title="Helado de Fresa" 
           price="$5.500" 
         />
+      </Section>
+
+      <Section title="Sabores De Helado">
         <Card 
           image="https://images.unsplash.com/photo-1589712186148-d6aa1eb3e2dd" 
           title="Menta" 
@@ -38,16 +42,6 @@ export default function Home() {
           price="$1.500 extra" 
         />
         <Card 
-          image="https://images.unsplash.com/photo-1497034825429-c343d7c6a68f" 
-          title="Fresa" 
-          price="$1.000 extra" 
-        />
-        <Card 
-          image="https://images.unsplash.com/photo-1590080876437-54e5e5f6b4cb" 
-          title="Chispas de chocolate" 
-          price="$500" 
-        />
-        <Card 
           image="https://images.unsplash.com/photo-1604909053641-708582fa57d8" 
           title="Caramelooo" 
           price="$700" 
@@ -57,6 +51,24 @@ export default function Home() {
           title="Oreo triturada" 
           price="$800" 
         />
+      </Section>
+
+      <Section title="Toppings">
+        <Card 
+          image="https://images.unsplash.com/photo-1497034825429-c343d7c6a68f" 
+          title="Fresa" 
+          price="$1.000 extra" 
+        />
+        <Card 
+          image="https://images.unsplash.com/photo-1590080876437-54e5e5f6b4cb" 
+          title="Chispas de chocolate" 
+          price="$500" 
+        />
+        </Section>
+
+        <Section title="Sobre Nosotros">
+          <title><h2>Somos nosotros</h2></title>
+        </Section>
       </div>
     </main>
   );

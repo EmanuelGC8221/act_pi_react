@@ -1,0 +1,42 @@
+/* components/Section.css */
+
+.section {
+  padding: 40px 24px;
+}
+
+.section-box {
+  background-color: #fff;
+  border: 3px solid #6d67e6;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 24px;
+}
+
+.section-title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 24px;
+  color: #333;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.section-grid {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr; /* por defecto 1 card */
+}
+
+/* 📱 tablets medianas */
+@media (min-width: 640px) {
+  .section-grid {
+    grid-template-columns: repeat(2, 1fr); /* 2 cards */
+  }
+}
+
+/* 💻 pantallas grandes */
+@media (min-width: 1024px) {
+  .section-grid {
+    grid-template-columns: repeat(4, 1fr); /* 4 cards siempre */
+  }
+}
