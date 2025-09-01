@@ -2,10 +2,14 @@ import Header from "./components/Header";
 
 import Card from "./components/Card";
 
+import Section from "./components/Section";
+
 export default function Home() {
   return (
     <main>
      <Header />
+
+      {/* sección de presentaciones de helado */}
 
       <div className="card-container">
         <Card 
