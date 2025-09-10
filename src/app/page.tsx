@@ -14,57 +14,94 @@ export default function Home() {
       <div className="card-container">
       <Section title="Presentaciones de Helado">
         <Card 
-          image="https://images.unsplash.com/photo-1565958011702-44e7b4dc30e9" 
-          title="Helado de Vainilla" 
-          price="$5.000" 
+          image="/descarga ensalda(1).jpeg" 
+          title="Ensalada de frutas" 
+          price="$20.000" 
         />
         <Card 
-          image="https://images.unsplash.com/photo-1590080876437-54e5e5f6b4cb" 
-          title="Helado de Chocolate" 
-          price="$6.000" 
+          image="/descargafresas(1).jpeg" 
+          title="Fresas con crema" 
+          price="$12.000" 
         />
         <Card 
-          image="https" 
-          title="Helado de Fresa" 
-          price="$5.500" 
+          image="/descargabanana.jpeg" 
+          title="Banana split" 
+          price="$15.000" 
+        />
+        <Card 
+          image="/imageswafles.jpeg" 
+          title="Wafles" 
+          price="$18.000" 
         />
       </Section>
 
       <Section title="Sabores De Helado">
         <Card 
-          image="https://images.unsplash.com/photo-1589712186148-d6aa1eb3e2dd" 
+          image="/menta.jpg" 
           title="Menta" 
           price="$1.200 extra" 
         />
         <Card 
-          image="https://images.unsplash.com/photo-1589712239691-09c8c0f6ed8b" 
-          title="Café" 
-          price="$1.500 extra" 
+          image="/cafe.jpg" 
+          title="Cafe" 
+          price="$1.200 extra" 
         />
         <Card 
-          image="https://images.unsplash.com/photo-1604909053641-708582fa57d8" 
-          title="Caramelooo" 
-          price="$700" 
+          image="/caramelo.jpeg" 
+          title="Caramelo" 
+          price="$1.200 extra" 
         />
         <Card 
-          image="https://images.unsplash.com/photo-1623428187969-5b8a73e0b5c6" 
-          title="Oreo triturada" 
-          price="$800" 
+          image="/oreo.jpeg" 
+          title="Oreo" 
+          price="$1.200 extra" 
+        />
+        <Card 
+          image="/fresa.jpeg" 
+          title="Fresa" 
+          price="$1.200 extra" 
+        />
+        <Card 
+          image="/chocolate.jpeg" 
+          title="Chocolate" 
+          price="$1.200 extra" 
+        />
+        <Card 
+          image="/vainilla.jpeg" 
+          title="Vainilla" 
+          price="$1.200 extra" 
+        />
+        <Card 
+          image="/vainillac.jpg" 
+          title="Vainilla chips" 
+          price="$1.200 extra" 
         />
       </Section>
 
       <Section title="Toppings">
         <Card 
-          image="https://images.unsplash.com/photo-1497034825429-c343d7c6a68f" 
-          title="Fresa" 
-          price="$1.000 extra" 
+          image="/zucaritas.jpeg" 
+          title="Zucaritas" 
+          price="$800 extra" 
         />
         <Card 
-          image="https://images.unsplash.com/photo-1590080876437-54e5e5f6b4cb" 
-          title="Chispas de chocolate" 
-          price="$500" 
+          image="/arrozinflado.jpeg" 
+          title="Arroz inflado" 
+          price="$800 extra" 
         />
+        <Card 
+          image="/chispitascolores.jpeg" 
+          title="Chispas de colores" 
+          price="$800 extra" 
+        />
+        <Card 
+          image="/chispaschocolate.jpeg" 
+          title="Chsipas de chocolate" 
+          price="$800 extra" 
+        />
+        
         </Section>
+
 
         <Section title="Sobre Nosotros">
           <title><h2>Somos nosotros</h2></title>
