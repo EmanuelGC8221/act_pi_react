@@ -6,7 +6,11 @@ type CardProps = {
 
 export default function Card({ image, title, price }: CardProps) {
   return (
-    <div className="card">
+    <div className="card bg-white p-4 rounded-2xl shadow-md
+    transform transition duration-300
+    hover:scale-105 hover:shadow-xl"
+    
+    >
       {/* Solo muestra la imagen si existe y no está vacía */}
       {image && image.trim() !== "" && (
         <img src={image} alt={title} className="card-img" />
