@@ -33,23 +33,43 @@ Trata de un menú informativo para un establecimiento físico de helados, este, 
   - [Pensamos en la creaccion de una interfaz para comprar helados pero decidimos por ultimo que fuera una interfaz solo informativa para el menu de una heladera, siendo mas interactiva y facil de entender.]
 
 ### Clase 2
-- **Fecha**: [DD/MM/YYYY]
+- **Fecha**: [27/08/2025]
 - **Objetivos**:
-  - [Objetivo 1]
-  - [Objetivo 2]
+  - [Avanzar en la creación de las cards]
+  - [inicio de creación de layout]
 - **Avances**:
-  - ✅ [Tarea completada 1] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
-  - ✅ [Tarea completada 2] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
+  [no hubieron avances.]
 - **En progreso**:
-  - 🔄 [Tarea en progreso] - Responsable: [Nombre] - Commit: [Hash o descripción del commit]
+  - 🔄 [Creación de cards] - Responsable: [Sara] - Commit: [Avance tarjetas menu]
 - **Pendiente**:
-  - ⏳ [Tarea pendiente] - Responsable: [Nombre]
+  - ⏳ [creación del layout] - Responsable: [Ana]
+  - ⏳ [Creación de sections] - Responsable: [Emanuel]
 - **Notas**:
-  - [Descripción de problemas, soluciones o decisiones tomadas]
+  - [En esta clase tuvimos una dificulat con el proyecto y tuvimos que eliminar todo, hacer un nuevo fork del profesor e iniciar desde 0, obteniendo algunos recursos recuperados del trabajo anterior.]
 
-### Clase [N]
-- **Fecha**: [DD/MM/YYYY]
-- [Repetir estructura anterior]
+### Clase [3]
+- **Fecha**: [01/09/2025]
+- - **Objetivos**:
+  - [colores del layout y menú hamburguesa]
+  - [Creación de 2 section para trabajar con el componente cards]
+- **Avances**:
+  - ✅ [Colores del layout definidos y logo] - Responsable: [Ana] - Commit: [cambiando titulo y favicon de la pagina]
+  - ✅ [Secciones echas con el componete section] - Responsable: [Emanuel] - Commit: [Cambio al componente section]
+- **En progreso**:
+  - 🔄 [Desarrollo de las últimas 2 secciones faltantes] - Responsable: [Emanuel] 
+- **Pendiente**:
+  - ⏳ [agregar las ultimas sections para implementación de cards] - Responsable: [Emanuel y Sara]
+
+### Clase [4]
+- **Fecha**: [10/09/2025]
+- **Objetivos**:
+  - [Avance de cards]
+  - [Menu hamburguesa funcional]
+- **Avances**:
+  - ✅ [Añadiendo estilos y hover a cards] - Responsable: [Sara] - Commit: [Actualización de cards incluyendo efecto hover]
+  - ✅ [cambio y agregación de links a sections] - Responsable: [Ana,Emanuel] - Commit: [Eleccion del proyecto menu heladeria]
+- **Pendiente**:
+  - ⏳ [Trabajar y llenar la parte del sobre nosotros] - Responsable: [Emanuel]- commit: [Creaccion de logo del proyecto]
 
 ## Contacto
 ### Información del Grupo
