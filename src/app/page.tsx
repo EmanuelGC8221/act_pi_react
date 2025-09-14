@@ -105,6 +105,20 @@ export default function Home() {
 
         <Section title="Sobre Nosotros">
           <title><h2>Somos nosotros</h2></title>
+          <p>
+        Bienvenido a nuestra heladería 🍨. Nos especializamos en ofrecer helados
+        artesanales con ingredientes frescos y sabores únicos.
+      </p>
+      <p>
+        Este sitio es nuestro <strong>menú virtual</strong>, donde puedes
+        explorar nuestras opciones de helados y descubrir nuevas combinaciones.
+      </p>
+      <p>
+        ¡Disfruta de nuestros sabores!
+      </p>
+      <p>
+        Pide y disfruta de un buen helado con <strong>FRÍO DELIRIO</strong>
+      </p>
         </Section>
       </div>
     </main>

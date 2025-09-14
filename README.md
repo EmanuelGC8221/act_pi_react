@@ -69,7 +69,7 @@ Trata de un menú informativo para un establecimiento físico de helados, este, 
   - ✅ [Añadiendo estilos y hover a cards] - Responsable: [Sara] - Commit: [Actualización de cards incluyendo efecto hover]
   - ✅ [cambio y agregación de links a sections] - Responsable: [Ana,Emanuel] - Commit: [Eleccion del proyecto menu heladeria]
 - **Pendiente**:
-  - ⏳ [Trabajar y llenar la parte del sobre nosotros] - Responsable: [Emanuel]- commit: [Creaccion de logo del proyecto]
+  - ⏳ [Trabajar y llenar la parte del sobre nosotros] - Responsable: [Emanuel]- commit: [Llenando el campo de sobre nosotros]
 
 ## Contacto
 ### Información del Grupo
