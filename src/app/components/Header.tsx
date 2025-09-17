@@ -17,8 +17,8 @@ export default function Header() {
       {/* Menú */}
       <nav className={`${styles.menu} ${open ? styles.show : ""}`}>
         <a href="#presentaciones">Presentaciones</a>
-        <a href="#Sabores">Sabores</a>
-        <a href="#Topics">Topics</a>
+        <a href="#sabores">Sabores</a>
+        <a href="#toppings">Toppings</a>
         <a href="#sobre-nosotros">Sobre Nosotros</a>
       </nav>
 
